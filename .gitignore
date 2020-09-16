@@ -1,0 +1,12 @@
+.vs/*
+*.csproj
+*.sln
+obj/*
+Logs/*
+ProjectSettings/*
+Library/*
+Assets/ThirdParty/*
+Temp/*
+*.unity
+*.meta
+*.unity.meta
