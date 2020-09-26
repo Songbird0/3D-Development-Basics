@@ -7,6 +7,4 @@ ProjectSettings/*
 Library/*
 Assets/ThirdParty/*
 Temp/*
-*.unity
 *.meta
-*.unity.meta
