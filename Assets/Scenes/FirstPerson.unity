@@ -204,7 +204,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1495099142}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f8257ef06a6d9843a026c066aeb7f8f, type: 3}
+  m_Script: {fileID: 11500000, guid: 079e87496c976114daf44969d5c2f30b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   turnSpeed: 4
